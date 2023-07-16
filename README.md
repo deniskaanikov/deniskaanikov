@@ -17,7 +17,7 @@
 - 📚 Прошел курс **Анализ данных и машинное обучение в среде Python**, сейчас изучаю курс **Data science в экономике**
 - 🏫 Активно участую в студенческой жизни, являюсь со-руководителем структуры Project в **ITCenter**
 - 🌍 Говорю на: **Русском, English**
-- 📫 Reach me by [telegram](https://t.me/FrumsM), [vkontakte](https://vk.com/id217928311), [gmail](mailto:frums199@gmail.com)
+- 📫 Reach me by [telegram](https://t.me/akinovdesin), [vkontakte](https://vk.com/akinovdeniska), [gmail](mailto:daanikov@gmail.com")
 
 ---
           
