@@ -1,16 +1,13 @@
-### Hi there 👋
+### Всем привет, меня зовут Денис Аников 👋
 
-<!--
-**deniskaanikov/deniskaanikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="socials" align="center">
+  <a href="https://t.me/akinovdesin">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/akinovdeniska">
+    <img src="https://img.shields.io/badge/vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte"/>
+  </a>
+  <a href="mailto:daanikov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
