@@ -18,3 +18,12 @@
 - 🏫 Активно участую в студенческой жизни, являюсь со-руководителем структуры Project в **ITCenter**
 - 🌍 Говорю на: **Русском, English**
 - 📫 Reach me by [telegram](https://t.me/FrumsM), [vkontakte](https://vk.com/id217928311), [gmail](mailto:frums199@gmail.com)
+
+---
+          
+### Стек
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/> <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" title="Django" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual" width="40" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" title ="Git" width="40" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" title="Premier Pro" width="40" height="40"/> <img scr="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original-wordmark.svg" title = "Kaggle" width="40" height="40"/> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" width="40" height="40"/> <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" title="Figma" width="40" height="40"/>
+
